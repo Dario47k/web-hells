@@ -1,0 +1,6 @@
+dark-blue:#282633
+light blue:#34323f
+
+grey:#8a898f
+white#fefefc
+red:#e43d4f
